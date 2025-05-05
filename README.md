@@ -30,7 +30,7 @@
 - 🌱 I’m currently reading Computer Systems and Network Engineering Degree at SLIIT.
 - 🕺 I'm  also member of KCD , GDG & AICSL..
 - 💞️ I’m looking to collaborate on building websites and web apps, developping linux tools, Linux server operations and...
-- 📫 Email me via gamikasanjana1@gmail.com to contact
+- 📫 Email me via support@fashionys.shop to contact
 - 🤩 Follow me on Instagram https://www.instagram.com/vehanrajintha/
 - 💬 Text me on WhatsApp +94763200676
 
