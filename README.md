@@ -9,7 +9,7 @@
 ![size](https://img.shields.io/github/repo-size/GamikaSanjana/VehanRajintha?color=purple&label=Repo%20Size&style=plastic)
 ![license](https://img.shields.io/github/license/GamikaSanjana/X-UI-English-?color=purple&label=License&style=plastic)
 ![developer](https://img.shields.io/static/v1?label=Author&message=Gamika%20Sanjana&color=purple&style=plastic)
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/mpgamikasanjana.png" alt="Your Image Badge" />
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Young+Serif&pause=1000&color=8706E1FF&center=true&vCenter=true&random=false&width=435&lines=Hey+I'm+Gamika+Sanjana;Don't+Forget+To+Follow+Me...)](https://git.io/typing-svg)
