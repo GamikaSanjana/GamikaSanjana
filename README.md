@@ -2,7 +2,7 @@
 
   ![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGamikaSanjana%2FGamikaSanjana&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
 
-![forks]<img src="https://tryhackme-badges.s3.amazonaws.com/mpgamikasanjana.png" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/mpgamikasanjana.png" alt="Your Image Badge" />
 ![forks](https://img.shields.io/github/forks/GamikaSanjana/GamikaSanjana?label=Forks&style=social)
 ![stars](https://img.shields.io/github/stars/GamikaSanjana/GamikaSanjana?style=social)
 
